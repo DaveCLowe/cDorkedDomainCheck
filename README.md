@@ -1,0 +1,1 @@
+Check your environments DNS logs, or passive DNS solution for domain names associated with the cDorked malware. Provide this simple python script with the domain name, and resolved IP address, and it will tell you if it's malicious or not.
